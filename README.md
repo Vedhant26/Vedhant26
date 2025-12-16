@@ -1,5 +1,9 @@
 👋 Hi, I’m Vedhant
 B.Tech Student | Full-Stack Developer | AI/ML 
-I am a Computer Science undergraduate focused on building practical, scalable, and impact-driven software solutions. My interests span full-stack web development, applied AI/ML, and systems that solve real-world problems through clean architecture and thoughtful design.
-I enjoy working across the stack, learning fast, and improving code quality through iteration and feedback.
-Basketball is <3
+🎓 B.Tech student at VIT-AP University
+💻 Web Developer & Freelancer building real-world applications
+🧩 Full-Stack Developer with hands-on project experience
+🔐 Exploring Cryptography, Web Security
+🌱 Constantly improving development + security fundamentals
+💬 Ask me about Web Dev, Full Stack, Freelancing, Security Basics
+⚡ Builder mindset — I learn by shipping and breaking things
