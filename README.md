@@ -1,7 +1,7 @@
 👋 Eh… What’s up?
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=VEDHANT BIDARI&fontSize=40&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=VEDHANT_BIDARI&fontSize=40&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
