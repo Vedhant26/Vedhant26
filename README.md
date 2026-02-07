@@ -1,6 +1,6 @@
 👋 Eh… What’s up, Internet?
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20my%20space&fontSize=38&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Vedhant%20Bidari%&fontSize=40&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
