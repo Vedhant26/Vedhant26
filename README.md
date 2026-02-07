@@ -1,5 +1,5 @@
 🥕💥 Eh… What’s up, World? — I’m Bunny.exe
-<p align="center"> <!-- 🔥 TOP BANNER GIF (BUGS BUNNY VIBE) --> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" /> </p>
+<p align="center"> <!-- 🔥 TOP BANNER GIF (BUGS BUNNY VIBE) --> <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://tenor.com/en-GB/view/günaydın-good-morning-not-wake-up-gif-13896040059396783177)" width="100%" /> </p>
 <p align="center"> <!-- 🧠 YOUR PHOTO --> <img src="https://your-photo-link-here.jpg" width="160" style="border-radius:50%; border: 4px solid #ff9900;" /> </p> <h1 align="center">🐰 Bunny | Code Trickster | Bug Hunter</h1> <p align="center"> <i>"I don’t chase bugs… bugs run from me."</i> </p>
 🧨 About Me (Read This Before the Bug Escapes)
 🎯 Role        : B.Tech CSE Student / Developer / Tech Maniac
