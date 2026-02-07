@@ -1,48 +1,46 @@
-🥕💥 Eh… What’s up, World? — I’m Bunny.exe
-<p align="center"> <!-- 🔥 TOP BANNER GIF (BUGS BUNNY VIBE) --> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://tenor.com/en-GB/view/günaydın-good-morning-not-wake-up-gif-13896040059396783177)" width="100%" /> </p>
-<p align="center"> <!-- 🧠 YOUR PHOTO --> <img src="https://your-photo-link-here.jpg" width="160" style="border-radius:50%; border: 4px solid #ff9900;" /> </p> <h1 align="center">🐰 Bunny | Code Trickster | Bug Hunter</h1> <p align="center"> <i>"I don’t chase bugs… bugs run from me."</i> </p>
-🧨 About Me (Read This Before the Bug Escapes)
-🎯 Role        : B.Tech CSE Student / Developer / Tech Maniac
-🧠 Mindset     : Build → Break → Fix → Optimize → Repeat
-⚙️ Speciality  : Turning ☕ coffee into scalable systems
-🐇 Spirit      : Bugs Bunny with a keyboard
+Eh… What’s up ? I’m Vedhant Bidari
+<p align="center"> <!-- 🐰 TOP BUGS BUNNY GIF --> <img src="https://media1.tenor.com/m/wNimz0TxfEkAAAAC/g%C3%BCnayd%C4%B1n-good-morning.gif" width="100%" /> </p>
+<p align="center"> <!-- 📸 YOUR PHOTO (place it in repo as assets/me.jpg) --> <img src="assets/me.jpg" width="170" style="border-radius:50%; border:4px solid #ff0000;" /> </p> <h1 align="center">🐰 Bunny | Cybersecurity | Code Trickster</h1> <p align="center"> <i>“If it’s vulnerable, I’ll find it. If it’s broken, I’ll fix it.”</i> </p>
+🧨 About Me
+🎓 B.Tech CSE Student
+🔐 Security & Systems Enthusiast
+🐞 Web Developer
+⚙️ Thinks in exploits, patches in logic
+🎓 Applied Science, ML, Reverse Engineering.
 
 
-💻 I write clean code and break it intentionally
+🔍 Into Cybersecurity, Networks & System Security
 
-🐞 I hunt bugs like Bugs Bunny hunts carrots
+🧠 Love breaking systems to understand them
 
-🚀 Obsessed with systems, performance, and architecture
+⚔️ Blue team mindset with red team curiosity
 
-🌌 Always learning, always shipping
+🚀 Always building, always learning
 
-🥕 Current Mission
+🥕 Current Mode
+<p align="center"> <img src="https://tenor.com/view/bugs-bunny-pointing-finger-look-at-him-gif-2113920050542330552.gif" width="260"/> </p>
 
-🔭 Working on real-world tech projects
+🛡️ Frontend and UI/UX
 
-🧪 Exploring AI, Web, Systems & Open Source
+🧪 Learning attack simulations
 
-🧠 Learning things they don’t teach in class
+🧠 Studying real-world vulnerabilities
 
-🏗️ Building a killer GitHub profile
+💻 Leveling up every single day
 
-⚙️ Tech Stack (My Weapon Rack)
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,express,mongodb,postgres,git,github,linux,figma,docker" /> </p>
-📊 GitHub Analytics (Proof I Touch Grass… Rarely)
+⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,linux,git,github,docker,mysql,mongodb" /> </p>
+📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/> </p>
-🧠 Fun Fact (Very Important)
-<p align="center"> <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300"/> </p>
+🧠 When Code Works on First Try
+<p align="center"> <img src="https://tenor.com/view/love-bugsbunny-inlove-hearts-eyes-gif-9239247483045639566.gif" width="240"/> </p>
 
-“If it compiles on the first try… I don’t trust it.”
+“That’s suspicious… very suspicious.”
 
-🌐 Connect With Me (Stalk Professionally)
-<p align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
-🥕 Final Words
-<p align="center"> <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="250"/> </p>
-If you liked this README:
-⭐ Star a repo
-🍴 Fork something
-🐛 Open an issue
-🤝 Collaborate
-
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/vedhant-bidari"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://www.instagram.com/vedhant_26"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/> </a> <a href="mailto:vedhantvarnika123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
 <h3 align="center">🚀 That’s all folks!</h3>
+⭐ Star repos
+🐛 Report bugs
+🍴 Fork projects
+🤝 Collaborate
