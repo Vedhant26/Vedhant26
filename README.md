@@ -1,6 +1,7 @@
-👋 Eh… What’s up, Internet?
+👋 Eh… What’s up?
+<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Vedhant%20Bidari%&fontSize=40&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=VEDHANT BIDARI&fontSize=40&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
