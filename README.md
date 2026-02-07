@@ -1,46 +1,51 @@
-Eh… What’s up ? I’m Vedhant Bidari
-<p align="center"> <!-- 🐰 TOP BUGS BUNNY GIF --> <img src="https://media1.tenor.com/m/wNimz0TxfEkAAAAC/g%C3%BCnayd%C4%B1n-good-morning.gif" width="100%" /> </p>
-<p align="center"> <!-- 📸 YOUR PHOTO (place it in repo as assets/me.jpg) --> <img src="assets/me.jpg" width="170" style="border-radius:50%; border:4px solid #ff0000;" /> </p> <h1 align="center">🐰 Bunny | Cybersecurity | Code Trickster</h1> <p align="center"> <i>“If it’s vulnerable, I’ll find it. If it’s broken, I’ll fix it.”</i> </p>
-🧨 About Me
+👋 Eh… What’s up, Internet?
+<p align="center"> <!-- 🌅 TOP BUGS BUNNY GIF --> <img src="https://media1.tenor.com/m/wNimz0TxfEkAAAAC/g%C3%BCnayd%C4%B1n-good-morning.gif" width="100%" /> </p>
+<p align="center"> <!-- 📸 YOUR IMAGE (UPDATED LINK) --> <img src="https://i.ibb.co/pj2HNxJt/IMG-20240206-205742.jpg" width="170" style="border-radius:50%; border:4px solid #ff4d4d;" /> </p> <h2 align="center">🐰 Bunny</h2> <p align="center"> <i>Web Developer • Software Engineer • Curious Learner</i> </p>
+🧠 About Me (Keeping It Real)
 🎓 B.Tech CSE Student
-🔐 Security & Systems Enthusiast
-🐞 Web Developer
-⚙️ Thinks in exploits, patches in logic
-🎓 Applied Science, ML, Reverse Engineering.
+💻 Mostly a Web Developer & Software Engineer
+🔐 Beginner in Cybersecurity (learning phase)
+🧪 Curious about how systems break & work
 
 
-🔍 Into Cybersecurity, Networks & System Security
+🌐 I mainly build web apps & software projects
 
-🧠 Love breaking systems to understand them
+🧑‍💻 Learning clean code, logic & system thinking
 
-⚔️ Blue team mindset with red team curiosity
+🐧 Use Linux (Kali Linux – beginner level)
 
-🚀 Always building, always learning
+🧠 Exploring Cybersecurity, ML & Reverse Engineering
 
-🥕 Current Mode
-<p align="center"> <img src="https://tenor.com/view/bugs-bunny-pointing-finger-look-at-him-gif-2113920050542330552.gif" width="260"/> </p>
+🚀 Learning step by step, no rush, no fake hype
 
-🛡️ Frontend and UI/UX
+Still learning. Still experimenting. Still building.
 
-🧪 Learning attack simulations
+🛠️ Tech I Work With / Learn
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,git,github,linux,mysql,mongodb,docker" /> </p>
+🎮 GitHub Analytics — Space Mode Activated 🌌
+<p align="center"> <!-- 🚀 MAIN STATS --> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180"/> </p> <p align="center"> <!-- 🪐 LANGUAGES --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/> </p> <p align="center"> <!-- 🌠 STREAK = GAME PROGRESS BAR --> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/> </p> <p align="center"> 🛸 <i>Every commit = XP gained</i> </p>
+🧪 Currently Learning
+<p align="center"> <img src="https://tenor.com/view/bugs-bunny-pointing-finger-look-at-him-gif-2113920050542330552.gif" width="240"/> </p>
 
-🧠 Studying real-world vulnerabilities
+🌐 Advanced Web Development
 
-💻 Leveling up every single day
+🧠 Software Engineering concepts
 
-⚙️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,linux,git,github,docker,mysql,mongodb" /> </p>
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/> </p>
-🧠 When Code Works on First Try
-<p align="center"> <img src="https://tenor.com/view/love-bugsbunny-inlove-hearts-eyes-gif-9239247483045639566.gif" width="240"/> </p>
+🔐 Cybersecurity basics
 
-“That’s suspicious… very suspicious.”
+🐧 Linux & system internals
+
+🤖 Basics of Machine Learning
+
+😄 When Code Finally Works
+<p align="center"> <img src="https://tenor.com/view/love-bugsbunny-inlove-hearts-eyes-gif-9239247483045639566.gif" width="220"/> </p>
+
+“Okay… maybe I do understand this now.”
 
 🌐 Connect With Me
-<p align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/vedhant-bidari"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://www.instagram.com/vedhant_26"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/> </a> <a href="mailto:vedhantvarnika123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
-<h3 align="center">🚀 That’s all folks!</h3>
-⭐ Star repos
-🐛 Report bugs
-🍴 Fork projects
-🤝 Collaborate
+<p align="center"> <a href="https://github.com/Vedhant26"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/vedhant-bidari"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://www.instagram.com/vedhant_26"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/> </a> </p>
+<h3 align="center">🚀 Learning in public. Building slowly. Improving daily.</h3>
+⭐ Star if you like
+🍴 Fork if useful
+🐛 Issues welcome
+🤝 Open to learn & collaborate
