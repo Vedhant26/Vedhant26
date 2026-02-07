@@ -20,9 +20,9 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,linux,git,github,mysql,mongodb,docker" /> </p>
 🌌 GitHub in Space Mode 🚀
 🧠 Contribution Graph → Galaxy
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=000000&hide_border=true" /> </p> <p align="center"> <i>✨ Each square = a star. Each commit = energy.</i> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedhant26&theme=react-dark&bg_color=000000&hide_border=true" /> </p> <p align="center"> <i>✨ Each square = a star. Each commit = energy.</i> </p>
 🎮 Space Stats (Live)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000" height="160"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vedhant26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Vedhant26&theme=tokyonight&hide_border=true&background=00000000" height="160"/> </p>
 🧪 Currently Learning
 <p align="center"> <img src="https://tenor.com/view/bugs-bunny-pointing-finger-look-at-him-gif-2113920050542330552.gif" width="220"/> </p>
 
