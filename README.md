@@ -1,5 +1,11 @@
 👋 Eh… What’s up, Internet?
-<!-- 🌌 ANIMATED SPACE BACKGROUND HEADER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Welcome%20to%20my%20space&fontSize=32&fontColor=ffffff&animation=fadeIn" /> </p>
+<!-- 🌌 ANIMATED SPACE BACKGROUND HEADER --> <p align="center"><p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20my%20space&fontSize=38&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
 🐰 Intro 
 <p align="center"> <table> <tr> <td align="center"> <img src="https://media1.tenor.com/m/wNimz0TxfEkAAAAC/g%C3%BCnayd%C4%B1n-good-morning.gif" width="350" /> </td> <td align="center"> <img src="https://i.ibb.co/pj2HNxJt/IMG-20240206-205742.jpg" width="350" style="border-radius:50%; border:4px solid #ff4d4d;" /> </td> </tr> </table> </p> <h2 align="center">🐰 Bunny</h2> <p align="center"> <i>Web Developer • Software Engineer • Curious Learner</i> </p>
 🧠 About Me (Beginner & Honest)
