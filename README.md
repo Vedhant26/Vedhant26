@@ -1,5 +1,4 @@
 👋 Eh… What’s up, Internet?
-<!-- 🌌 ANIMATED SPACE BACKGROUND HEADER --> <p align="center"><p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20my%20space&fontSize=38&fontColor=ffffff&animation=fadeIn"
     width="100%"
