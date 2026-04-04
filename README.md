@@ -14,7 +14,7 @@
 🔐 Cybersecurity – beginner level (learning phase)
 🐧 Linux (Kali Linux – basics)
 🧠 Exploring ML & Reverse Engineering
-
+My potfolio website : vedhant.xyz
 
 🌐 Focused on web development & software projects
 
