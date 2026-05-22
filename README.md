@@ -1,4 +1,3 @@
-````md
 # 👾 INSERT COIN TO START
 
 <p align="center">
