@@ -174,7 +174,7 @@ class VedhantBidari:
 
 ## 📡 `> CURRENT_MISSION.log`
 
-<img src="https://tenor.com/view/bugs-bunny-pointing-finger-look-at-him-gif-2113920050542330552.gif" width="200"/>
+<img src="https://media.giphy.com/media/VbYj3vRV8xbXjB2KzB/giphy.gif" width="200"/>
 
 </div>
 
@@ -199,7 +199,7 @@ class VedhantBidari:
 
 ## 💫 `> VICTORY_SCREEN.exe`
 
-<img src="https://tenor.com/view/love-bugsbunny-inlove-hearts-eyes-gif-9239247483045639566.gif" width="200"/>
+<img src="https://media.giphy.com/media/26FLdmIp6wRqp2SYp/giphy.gif" width="200"/>
 
 ```
 ╔═══════════════════════════════════════╗
@@ -227,7 +227,7 @@ class VedhantBidari:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vedhant26/Vedhant26/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-> ⚠️ *To enable the snake: add a GitHub Action workflow — instructions below*
+
 
 </div>
 
@@ -263,27 +263,4 @@ class VedhantBidari:
 
 ---
 
-<!--
-╔══════════════════════════════════════════════════════════╗
-║  OPTIONAL: SNAKE GAME SETUP INSTRUCTIONS                 ║
-╠══════════════════════════════════════════════════════════╣
-║  1. Create .github/workflows/snake.yml in your repo      ║
-║  2. Paste this content:                                   ║
-║                                                           ║
-║  name: Generate Snake                                     ║
-║  on:                                                      ║
-║    schedule: [{cron: "0 0 * * *"}]                       ║
-║    workflow_dispatch:                                     ║
-║  jobs:                                                    ║
-║    generate:                                              ║
-║      runs-on: ubuntu-latest                               ║
-║      steps:                                               ║
-║        - uses: Platane/snk@v3                             ║
-║          with:                                            ║
-║            github_user_token: ${{secrets.GITHUB_TOKEN}}  ║
-║            outputs: |                                     ║
-║              dist/github-contribution-grid-snake.svg      ║
-║              dist/github-contribution-grid-snake-dark.svg ║
-║              ?palette=github-dark                         ║
-╚══════════════════════════════════════════════════════════╝
--->
+
