@@ -174,7 +174,7 @@ class VedhantBidari:
 
 ## 📡 `> CURRENT_MISSION.log`
 
-<img src="https://media.giphy.com/media/VbYj3vRV8xbXjB2KzB/giphy.gif" width="200"/>
+<img src="https://media1.tenor.com/m/HVYnFgAmwrgAAAAC/bugs-bunny-pointing-finger.gif" width="200"/>
 
 </div>
 
@@ -199,7 +199,7 @@ class VedhantBidari:
 
 ## 💫 `> VICTORY_SCREEN.exe`
 
-<img src="https://media.giphy.com/media/26FLdmIp6wRqp2SYp/giphy.gif" width="200"/>
+<img src="https://media1.tenor.com/m/gDhmolrbdY4AAAAC/love-bugsbunny.gif" width="200"/>
 
 ```
 ╔═══════════════════════════════════════╗
